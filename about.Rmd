@@ -1,4 +1,4 @@
 ---
 title: "About Me"
 ---
-Why I am awesome. 
+![](~/phoebekoenig.github.io/photos for site/headshot.jpeg)
