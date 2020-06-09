@@ -7,4 +7,5 @@ navbar:
       href: about.html
     - text: "Adventures"
       href: adventures.html
-      
+    - text: "Outreach"
+      href: outreach.html
