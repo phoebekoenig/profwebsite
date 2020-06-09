@@ -1,5 +1,8 @@
 ---
 title: "Adventures"
+output: 
+  html_document:
+    css: ['imagesize.css']
 ---
 I like to go on outdoor adventures. Here are some pictures from trips I've taken.
 

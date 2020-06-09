@@ -1,4 +1,7 @@
 ---
 title: "About Me"
+output: 
+  html_document:
+    css: ['imagesize.css']
 ---
 ![](~/phoebekoenig.github.io/photos for site/headshot.jpeg)

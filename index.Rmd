@@ -1,4 +1,7 @@
 ---
 title: "Phoebe Koenig"
+output: 
+  html_document:
+    css: ['imagesize.css']
 ---
 Hi, my name is Phoebe. 
