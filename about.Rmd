@@ -8,7 +8,17 @@ output:
 
 I am a first year MS student in the Entomology department at Cornell University and an NSF GRFP fellow. I study ant social behavior and coordination in the <a href="http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/">Moreau lab</a>. I am interested in behavioral ecology at all levels of analysis. I plan to study how large groups of social insects have evolved to coordinate through decentralized systems, accomplishing grand tasks.
 
-## Publications
+## Positions
+**April 2018-August 2020** Technician at Cornell university. Half time in <a href="https://cei.ece.cornell.edu/">Kirstin Petersen's Robotics lab</a> and half time in <a href="http://blogs.cornell.edu/mcartlab/people/">Scott McArt's pollinator lab</a>.
+
+**October 2016-March 2018** Midwest honey bee extension agent for the Bee Informed Partnership <a href="https://beeinformed.org/services/tech-teams/">Technical Transfer Team</a>.
+
+**March 2016-October 2016** Field Assistant at the University of Minnesota in <a href="https://www.beelab.umn.edu/meet-us/dr-marla-spivak">Marla Spivak's honey bee lab</a> 
+
+**August 2013-January 2016** BS Entomology student at Cornell University, and assitant in <a href="http://pages.nbb.cornell.edu/seeley.shtml">Tom Seeley's honey bee behavior lab</a>
+
+
+## Peer Reviewed Publications
 <a href="https://scholar.google.com/citations?user=iggT3E8AAAAJ&hl=en&oi=sra">**Google Scholar Profile**</a>
 
 Koenig, P. A., Smith, M. L., Horowitz, L. H., Palmer, D. M., & Petersen, K. H. (2020). [Artificial shaking signals in honey bee colonies elicit natural responses.](~/phoebekoenig.github.io/paper/artificialshakingsignals2020.pdf) Scientific reports, 10(1), 1-8.
