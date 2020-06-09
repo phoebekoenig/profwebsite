@@ -7,7 +7,7 @@ output:
 I like to go on outdoor adventures. Here are some pictures from trips I've taken.
 
 In January and February 2019, I rafted the Grand Canyon on a 30 day private permit.
-This is from Havasu canyon (I'm in the drysuit on the right).
+This is from Havasu canyon (I'm in the yellow drysuit on the right).
 
 ![](~/phoebekoenig.github.io/photos for site/havasu.jpeg)
 
