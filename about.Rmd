@@ -1,4 +1,4 @@
 ---
 title: "About Me"
 ---
-![](~/phoebekoenig.github.io/photos for site/headshot.jpeg|width=75)
+![](~/phoebekoenig.github.io/photos for site/headshot.jpeg)
