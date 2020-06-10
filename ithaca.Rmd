@@ -1,6 +1,8 @@
 ---
 title: "Ithaca"
-output: html_document
+output: 
+  html_document:
+    css: ['imagesize.css']
 ---
 
 This page is dedicated to pretty photos of Ithaca and the fingerlakes region so that I can convince my friends to visit. It also serves as proof that people who hate Ithaca are wrong and that there is a lot to do here.
