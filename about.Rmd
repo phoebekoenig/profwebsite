@@ -4,7 +4,7 @@ output:
   html_document:
     css: ['imagesize.css']
 ---
-![](~/phoebekoenig.github.io/photos for site/headshot.jpeg)
+![](~/profwebsite.git/photos for site/headshot.jpeg)
 
 I am a first year MS student in the Entomology department at Cornell University and an NSF GRFP fellow. I study ant social behavior and coordination in the <a href="http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/">Moreau lab</a>. I am interested in behavioral ecology at all levels of analysis. I plan to study how large groups of social insects have evolved to coordinate through decentralized systems, accomplishing grand tasks.
 
