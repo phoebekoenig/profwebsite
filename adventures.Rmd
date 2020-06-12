@@ -52,5 +52,5 @@ Here are some photos from trips I've taken in the Adirondacks.
 
 West Lake
 
-![](~/profwebsite.git/photos for site/westlake)
+![](~/profwebsite.git/photos for site/westlake.jpg)
 
