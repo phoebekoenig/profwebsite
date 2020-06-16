@@ -7,8 +7,6 @@ output:
 
 This page is dedicated to pretty photos of Ithaca and the fingerlakes region so that I can convince my friends to visit. It also serves as proof that people who hate Ithaca are wrong and that there is a lot to do here.
 
-##Waterfalls
-
 
 ![](~/profwebsite.git/photos for site/ithaca/Treman.jpg)
 
@@ -22,15 +20,13 @@ This page is dedicated to pretty photos of Ithaca and the fingerlakes region so 
 
 ![](~/profwebsite.git/photos for site/ithaca/lickbrook.jpg)
 
-Other photos
-
 ![](~/profwebsite.git/photos for site/ithaca/fall.jpg)
 
 ![](~/profwebsite.git/photos for site/ithaca/winter.jpg)
 
 
 
-##Cats of Fall Creek
+## Cats of Fall Creek
 I am the business manager for Cats of Fall Creek, the local organization responsible for the Fall Creek 2020 cat calendar. We sold 100 calendars in 2020. The calendar for 2021 is in the works! 
 <a href="https://www.facebook.com/catsoffallcreek/">This is the facebook page.</a>
 
