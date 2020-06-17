@@ -25,4 +25,6 @@ Koenig, P. A., Smith, M. L., Horowitz, L. H., Palmer, D. M., & Petersen, K. H. (
 
 Smith, M. L., Koenig, P. A., & Peters, J. M. (2017). [The cues of colony size: how honey bees sense that their colony is large enough to begin to invest in reproduction.](~/profwebsite.git/paper/cuesofcolonysize2016.pdf) Journal of Experimental Biology, 220(9), 1597-1605.
 
+## CV
 
+<embed src="https://github.com/phoebekoenig/profwebsite/tree/master/pdfs/Resume2020April-.pdf" width="800px" height="2100px" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
