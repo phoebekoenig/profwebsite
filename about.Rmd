@@ -6,7 +6,7 @@ output:
 ---
 ![](~/profwebsite.git/photos for site/headshot.jpeg)
 
-I am a first year MS student in the Entomology department at Cornell University and an NSF GRFP fellow. I study ant social behavior and coordination in the <a href="http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/">Moreau lab</a>. I am interested in behavioral ecology at all levels of analysis. I plan to study how large groups of social insects have evolved to coordinate through decentralized systems, accomplishing grand tasks.
+I am a first year MS student in the Entomology department at Cornell University and an NSF GRFP fellow. I study ant social behavior and coordination in the <a href="http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/">Moreau lab</a>. I am interested in behavioral ecology at all levels of analysis. I plan to study how large groups of social insects have evolved to complete grand tasks by cooperating through decentralized systems.
 
 ## Positions
 **April 2018-August 2020** Technician at Cornell university. Half time in <a href="https://cei.ece.cornell.edu/">Kirstin Petersen's Robotics lab</a> and half time in <a href="http://blogs.cornell.edu/mcartlab/people/">Scott McArt's pollinator lab</a>.
