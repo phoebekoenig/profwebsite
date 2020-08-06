@@ -3,6 +3,7 @@ title: "Adventures"
 output: 
   html_document:
     css: ['imagesize.css']
+    css: ['backgroundgreen.css']
 ---
 I like to go on outdoor adventures. Here are some pictures from recent trips I've taken.
 

@@ -21,6 +21,8 @@ I am a first year MS student in the Entomology department at Cornell University 
 ## Peer Reviewed Publications
 <a href="https://scholar.google.com/citations?user=iggT3E8AAAAJ&hl=en&oi=sra">**Google Scholar Profile**</a>
 
+Abdel-Raziq, H., Palmer, D., Koenig, P., Molnar, A., Petersen, K. (In review). Monitoring Field Pollination with Instrumented Honey Bees - A Feasibility Study. 
+
 Koenig, P. A., Smith, M. L., Horowitz, L. H., Palmer, D. M., & Petersen, K. H. (2020). [Artificial shaking signals in honey bee colonies elicit natural responses.](~/profwebsite.git/paper/artificialshakingsignals2020.pdf) Scientific reports, 10(1), 1-8.
 
 Smith, M. L., Koenig, P. A., & Peters, J. M. (2017). [The cues of colony size: how honey bees sense that their colony is large enough to begin to invest in reproduction.](~/profwebsite.git/paper/cuesofcolonysize2016.pdf) Journal of Experimental Biology, 220(9), 1597-1605.
